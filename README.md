@@ -6,7 +6,7 @@
 
 ## 目录结构
 
-​```text
+```text
 project/
 ├── backend/
 │   ├── main.py            # FastAPI 应用入口，含 ping 协议实现
@@ -17,7 +17,7 @@ project/
 └── static/
     ├── style.css          # 样式（含深色模式、移动端适配）
     └── echarts.min.js     # ECharts 5.5.0
-​```
+```
 
 ## 技术栈
 
